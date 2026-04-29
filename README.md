@@ -1,0 +1,2 @@
+# DAILY-ROUTINE-PLANNER-WITH-TIMER
+Here is a **professional 350-character description** you can use:  **“The Daily Routine Planner with Timer is a web-based application developed using HTML, CSS, and JavaScript. It enables users to organize daily tasks, track completion progress, and enhance productivity using a built-in focus timer. 
