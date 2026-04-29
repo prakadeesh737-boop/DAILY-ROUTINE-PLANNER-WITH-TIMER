@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Daily Routine Planner</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>🧠 Daily Routine Planner</h1>
+
+  <!-- Task Input -->
+  <div class="task-box">
+    <input type="text" id="taskInput" placeholder="Enter your task">
+    <button onclick="addTask()">Add</button>
+  </div>
+
+  <!-- Task List -->
+  <ul id="taskList"></ul>
+
+  <!-- Progress -->
+  <p id="progress">Progress: 0%</p>
+
+  <!-- Timer -->
+  <div class="timer">
+    <h2>⏱️ Focus Timer</h2>
+    <p id="time">25:00</p>
+    <button onclick="startTimer()">Start</button>
+    <button onclick="pauseTimer()">Pause</button>
+    <button onclick="resetTimer()">Reset</button>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
