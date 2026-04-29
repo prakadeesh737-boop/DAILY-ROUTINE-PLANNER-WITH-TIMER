@@ -1,2 +1,10 @@
-# DAILY-ROUTINE-PLANNER-WITH-TIMER
-The Daily Routine Planner with Timer is a web-based application developed using HTML, CSS, and JavaScript. It enables users to organize daily tasks, track completion progress, and enhance productivity using a built-in focus timer. 
+DAILY-ROUTINE-PLANNER-WITH-TIMER
+The Daily Routine Planner with Timer is a web-based application designed to assist users in organizing their daily activities and improving productivity. It is developed using HTML for structuring the webpage, CSS for styling and layout design, and JavaScript for implementing interactive functionalities. The primary aim of this project is to provide a simple and efficient platform where users can plan their daily tasks and manage their time effectively.
+
+The application allows users to enter tasks through an input field, which are then dynamically displayed on the screen using JavaScript and DOM manipulation techniques. Each task can be marked as completed by simply clicking on it, which visually updates the task using styling effects such as a line-through. The system also calculates the percentage of completed tasks and displays it as progress, helping users track their daily performance.
+
+A key feature of this project is the integrated focus timer, based on the Pomodoro technique. The timer is initially set to 25 minutes and helps users concentrate on a single task without distractions. Users can start, pause, and reset the timer according to their needs. When the timer reaches zero, a notification alert is displayed, indicating that it is time to take a break. This feature promotes better time management and reduces mental fatigue.
+
+Additionally, the application uses the browser’s local storage to save task data. This ensures that all tasks remain available even after the page is refreshed or reopened, making the application more reliable and user-friendly. The interface is designed to be clean and minimal, which is especially beneficial for users who need a distraction-free environment, such as individuals with attention difficulties.
+
+In conclusion, the Daily Routine Planner with Timer is an effective and practical tool that combines task management and time management features into a single platform. It demonstrates the use of core web technologies and provides a real-world solution for improving daily productivity and focus
